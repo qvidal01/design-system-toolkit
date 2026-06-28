@@ -92,5 +92,5 @@ self-check**, so you must also **register** them or the pane shows "No cards yet
 ```
 dscards/        logo_card · color_card · type_card · lib (dscard wrapper, SVG id-namespacer)
 verify/         render.sh — headless-Chrome screenshot of a card
-examples/       build_demo.py — runnable sample
+examples/       build_demo.py (minimal) · nobletouch.py (full system: logo+color+type+components from a repo)
 ```
