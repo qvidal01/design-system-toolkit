@@ -92,5 +92,5 @@ self-check**, so you must also **register** them or the pane shows "No cards yet
 ```
 dscards/        logo_card · color_card · type_card · lib (dscard wrapper, SVG id-namespacer)
 verify/         render.sh — headless-Chrome screenshot of a card
-examples/       worked configs — one per design system: build_demo (minimal) · example_a · subjectly · example_b · network_sentinel
+examples/       worked configs — one per design system: build_demo (minimal) · subjectly · network_sentinel
 ```
